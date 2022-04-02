@@ -1,0 +1,33 @@
+p {
+  color: #000000;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h2 {
+  color: #000000;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h1 {
+  color: #000000;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h3 {
+  color: #fca1ff;
+  font-size: 40px;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h4 {
+  color: #fdd1ff;
+  font-size: 20px;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+a {
+  color: #000000;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+H1 {display: inline;}
